@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>BZLibTest.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -18,6 +23,21 @@
 			<true/>
 		</dict>
 		<key>BC132A9B1D006FCD00852F80</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BC648F551D09417F00D2D99B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BC648F6D1D09417F00D2D99B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BC648F781D09417F00D2D99B</key>
 		<dict>
 			<key>primary</key>
 			<true/>

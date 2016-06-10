@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[BZNetTask responseData]:BZNetTask.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[[NSString alloc] initWithData:_htmlData encoding:NSUTF8StringEncoding]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BZNetManger _sendRequestWithPath:queryParameters:dataBody:responseType:]:BZNetManger.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[BZNetManger finish:]:BZNetManger.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[BZNetManger request:didReceiveData:]:BZNetManger.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
